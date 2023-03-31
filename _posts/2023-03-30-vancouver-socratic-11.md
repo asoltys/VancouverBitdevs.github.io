@@ -104,6 +104,7 @@ Announcing the [Pacific Nodewest](https://amboss.space/community/4a8adb4b-3c42-4
   - [Paxful shuts down in Canada](https://www.reddit.com/r/paxful/comments/11dmkos/comment/ja9pf2z/)
   - [Mempool 2.5.0 released](https://twitter.com/mempool/status/1640715797097246723)
   - [Seedsigner Open Source Hardware Wallet](https://seedsigner.com/)
+  - [Bitcoin Inheritance Planning](https://nunchuk.io/blog/multiple-beneficiaries-and-local-currency)
 
 
 ## Events and Podcasts
