@@ -86,6 +86,7 @@ Announcing the [Pacific Nodewest](https://amboss.space/community/4a8adb4b-3c42-4
 
 ### 2023 (Central) Banking Crisis
 
+- [How it's made: Ameridollars](https://fedguy.com/ameridollars/)
 - [America’s banks are missing hundreds of billions of dollars](https://www.economist.com/finance-and-economics/2023/03/21/americas-banks-are-missing-hundreds-of-billions-of-dollars)
 - [The US bank system is more fragile than you’d think](https://www.ft.com/content/84c4446a-d7aa-4f70-a286-adeb4fc4988c)
 - [Signature Bank’s Crypto Execution](https://www.wsj.com/articles/signature-banks-crypto-execution-c707bb48)
@@ -102,6 +103,8 @@ Announcing the [Pacific Nodewest](https://amboss.space/community/4a8adb4b-3c42-4
   - [Shakepay shuts down Earn](https://www.reddit.com/r/shakepay/comments/11eg4mk/goodbye_to_shakepay_earn/)
   - [Paxful shuts down in Canada](https://www.reddit.com/r/paxful/comments/11dmkos/comment/ja9pf2z/)
   - [Mempool 2.5.0 released](https://twitter.com/mempool/status/1640715797097246723)
+  - [Seedsigner Open Source Hardware Wallet](https://seedsigner.com/)
+  - [Bitcoin Inheritance Planning](https://nunchuk.io/blog/multiple-beneficiaries-and-local-currency)
 
 
 ## Events and Podcasts
