@@ -34,6 +34,7 @@ Fun fact: Attendees of a socratic seminar are called Elenctics.
 - Yaletown & Gastown, Vancouver: Cocoa Tanning
 - Burnaby Heights, Burnaby: Caffe Artigiano
 - Lynn Valley, North Vancouver: Big Bite Donair
+- Edgemont Village, North Vancouver: Caffe Artigiano
 
 Reminder: The [CoinOS bounty program](https://twitter.com/VanBitcoiners/status/1623519974131367937)! Get 1,000,000 SAT for signing up a merchant!
 
@@ -81,7 +82,8 @@ Reminder: The [CoinOS bounty program](https://twitter.com/VanBitcoiners/status/1
 - [RGB Protocol Announcement](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021554.html)
 - [Bug in inscriptions](https://twitter.com/leonidasnft/status/1645502786413424641)
 - [What the hell are Bitcoin stamps](https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md)
-
+- [soma (Spacechain-inspired Open Market for Assets) released on signet](https://github.com/nbd-wtf/soma)
+- 
 ### New Releases
 
 - [LitD Lightning Channel Management](https://lightning.engineering/posts/2023-04-26-litd-release/)
